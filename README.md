@@ -10,7 +10,7 @@ This project demonstrates the setup and configuration of Wazuh SIEM for security
 - Windows 10
 - Kali Linux
 - Sysmon
-- VirtualBox / VMware
+- VMware
 - Wireshark
 - Nmap
 
